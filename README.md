@@ -6,10 +6,9 @@
 
 ---
 
-## Como jogar
-Você somar em todas suas tentativas o valor de 100 pontos, ou o valor definido dentro do jogo
+## How to win the game
+Who wins 100 (or defined on game) points first
 
-### Regras
-- Caso o número sorteado seja 1, o jogador em questão perde a vez;
-- Caso o jogador consiga duas sequências de 6, ele perderá todos os pontos obtidos.
-- Ganha quem completar 100 (ou o valor definido dentro do jogo) pontos primeiro.
+### Rules
+- Case the number 1 to be sorted, this player will lose the turn;
+- Case the player get two numbers 6, will be lose the points obtained.
